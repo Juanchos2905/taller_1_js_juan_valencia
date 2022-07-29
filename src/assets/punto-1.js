@@ -42,16 +42,3 @@ if (sum > 0) {
    alert(Es un número negativo)
    alert(El resultado de la suma es ${suma})
  }*/
-
-/*Plus #1 del taller: Todos los puntos están realizados con arrays en la parte superior y
- sin arrays en la parte inferior para reforzar dicho tema, excepto el Punto-8.js, pues unicamente se realizo con array debido a que lo piden en el enunciado.
- 
- Plus #2 del taller: Se utilizán todas las estructuras de los for vistas, while,
- condicionales (if y switch) y operadores.
- 
- Plus #3 del taller: Se explica cada variable no entendible a simpe vista.*/
-
-/*Este repositorio contiene el taller número 1 que consta de 8 puntos y abarca los temas de variables, constates, diagramas de flujo de datos,
- control (estructura secuencial y estructuras selectivas), operadores, switch, cilos y arreglos.
- 
- En cada solución propuesta se encontrará: poner los plus*/
